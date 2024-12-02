@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A block of wood of specific gravity 0.7 floats in water. Determine the meta-centric height of the block if its size is 2m × 1m × 0.7m",
+      "qid": 1,
+      "option_a": "0.863",
+      "option_b": "0.065",
+      "option_c": "0.365",
+      "option_d": "0.543",
+      "correct_option": "b"
+   },
+   {
+      "question": "A block of wood of specific gravity 0.7 floats in water. Determine the meta-centric height of the block if its size is 2m × 1m × 1.4m",
+      "qid": 2,
+      "option_a": "0.425",
+      "option_b": "-0.051",
+      "option_c": "0.329",
+      "option_d": "-0.125",
+      "correct_option": "d"
+   }
+]
