@@ -1,0 +1,1 @@
+<h2>AIM: To study Metacentre and stability of wooden block.</h2>
